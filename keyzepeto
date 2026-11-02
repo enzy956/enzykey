@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "last_update": "2025-01-15",
+  "keys": [
+    {
+      "key": "ACE",
+      "user": "ACE",
+      "expired": "2027-12-31",
+      "status": "active",
+      "hwid": "EOS-c5624125-991BC83B"
+    },
+    {
+      "key": "VIP01",
+      "user": "VIP01",
+      "expired": "8026-12-26",
+      "status": "active",
+      "hwid": "EOS-c5624125-991BC83B"
+    },
+    {
+      "key": "EOS-TRIAL-001",
+      "user": "TRIAL",
+      "expired": "2025-12-31",
+      "status": "active",
+      "hwid": ""
+    },
+    {
+      "key": "EOS-EXPIRED-01",
+      "user": "OLD",
+      "expired": "2024-01-01",
+      "status": "expired",
+      "hwid": ""
+    }
+  ]
+}
